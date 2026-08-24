@@ -1,0 +1,42 @@
+# Claude
+CLAUDE.md
+
+# Stage1 excluded files
+Stage1/.gitignore
+Stage1/.gitmodules
+Stage1/requirements.txt
+Stage1/README.md
+Stage1/.logs/
+
+# Checkpoints & model weights
+Stage1/.checkpoints/*
+!Stage1/.checkpoints/full/
+Stage1/.checkpoints/full/*
+!Stage1/.checkpoints/full/.gitkeep
+!Stage1/.checkpoints/lora/
+Stage1/.checkpoints/lora/*
+!Stage1/.checkpoints/lora/.gitkeep
+Stage2/code/ckpt/
+Stage2/pretrained_ckpt/
+Stage2/vicuna_weights/
+Stage2/llama_weights/
+Stage2/data/
+Stage2/images/ 
+Stage2/view/
+Stage2/LICENSE
+Stage2/README.md
+
+Stage2/code/*eval_result*.json
+Stage2/code/*eval_result*.png
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# VS Code
+.vscode/

@@ -1,0 +1,26 @@
+# Copied from config/openllama_peft.yaml -- required because config/__init__.py's
+# load_model_config() loads 'config/{model_name}.yaml' by convention (model_name =
+# 'openchatglm_peft' for the ChatGLM-6B path, see train_mixedwm38_chatglm.py /
+# train_wm811k_chatglm.py). Values may need re-tuning once real training runs happen.
+
+# generation hyper-parameters
+max_len: 512
+penalty_alpha: 0.6
+top_k: 10
+top_p: 0.7
+random_prefix_len: 5
+sample_num: 2
+decoding_method: sampling
+generate_len: 512
+
+# lora hyper-parameters
+lora_r: 32
+lora_alpha: 32
+lora_dropout: 0.1
+
+# some train configuration, more can be found under dsconfig folder
+train:
+    seed: 42
+    warmup_rate: 0.1
+    epochs: 1
+    max_length: 1024
