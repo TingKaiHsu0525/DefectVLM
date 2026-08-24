@@ -1,0 +1,57 @@
+name: DefectVLM
+channels:
+  - defaults
+dependencies:
+  - python=3.9.24
+  - pip
+  - pip:
+      # ── Torch (install manually after env creation) ──────────────────────
+      # pip install torch==2.0.1+cu117 torchvision==0.15.2+cu117 torchaudio==2.0.2+cu117
+      #             --index-url https://download.pytorch.org/whl/cu117
+
+      - numpy==1.24.3
+      - scipy
+      - scikit-learn
+      - scikit-image
+      - h5py
+
+      - timm==0.6.7
+      - einops
+      - kornia==0.7.0
+      - opencv-python==4.8.0.74
+      - pillow==10.0.0
+      - matplotlib
+      - open3d-python==0.3.0.0
+
+      - pytorchvideo @ git+https://github.com/facebookresearch/pytorchvideo.git@28fe037d212663c6a24f373b94cc5d478c8c1a1d
+      - decord==0.6.0
+      - fvcore
+      - iopath
+
+      - transformers==4.29.1
+      - tokenizers==0.13.3
+      - sentencepiece==0.2.1
+      - peft==0.3.0
+      - accelerate
+      - huggingface-hub
+      - safetensors
+
+      - lightning==2.2.5
+      - pytorch-lightning==2.2.5
+      - deepspeed==0.9.2
+      - tensorboard==2.20.0
+
+      - ftfy
+      - regex
+      - types-regex
+
+      - easydict
+      - yacs
+      - pyyaml
+      - tqdm
+      - ipdb
+
+      - gradio==3.41.2
+      - gradio-client==0.5.0
+      - mdtex2html
+      - nltk
