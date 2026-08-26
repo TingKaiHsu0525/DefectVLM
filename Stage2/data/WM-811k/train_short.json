@@ -1,0 +1,3602 @@
+[
+  {
+    "img": "WM-811k/Center/Center_360902.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Donut/Donut_279361.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_642682.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_770981.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Loc/Loc_766041.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Donut/Donut_278970.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Center/Center_589315.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_154755.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_16315.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_774730.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Donut/Donut_279249.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Center/Center_587516.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Center/Center_774511.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Center/Center_588052.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_267563.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Donut/Donut_279042.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Loc/Loc_735980.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_200169.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_199756.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_769614.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Loc/Loc_790324.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Center/Center_588552.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_785781.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_353170.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_267575.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Center/Center_690350.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_255757.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_75834.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Loc/Loc_339250.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_810778.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Donut/Donut_279840.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_805084.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_350366.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Donut/Donut_279764.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Donut/Donut_361618.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Center/Center_592320.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_58139.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_530878.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Center/Center_528474.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Donut/Donut_278940.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Loc/Loc_278963.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_267352.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Donut/Donut_279051.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Loc/Loc_88267.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Center/Center_528506.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_231243.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Loc/Loc_107533.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_746382.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_651974.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_650613.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_40797.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Center/Center_528303.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_288086.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_346952.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_803715.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_757942.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Center/Center_628249.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_7913.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Loc/Loc_640550.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_795244.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_738297.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Donut/Donut_683871.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Loc/Loc_293407.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Donut/Donut_681517.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_789620.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_772590.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Loc/Loc_679941.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_778691.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_13741.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Donut/Donut_279383.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_780227.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_21186.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Loc/Loc_727928.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_228341.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Center/Center_650790.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Center/Center_176601.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Loc/Loc_774701.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Center/Center_762580.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Donut/Donut_279345.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_294468.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Loc/Loc_725542.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Donut/Donut_674143.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_798624.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_54096.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_808182.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_763804.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_713463.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_743829.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Donut/Donut_279286.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_758144.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Loc/Loc_712629.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_692815.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_80009.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_232034.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Center/Center_160119.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Center/Center_588435.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_201257.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_681701.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Center/Center_764692.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Loc/Loc_117649.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Center/Center_590278.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Loc/Loc_694454.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Loc/Loc_745560.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Center/Center_693850.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_165609.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Loc/Loc_644633.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_732816.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Center/Center_271082.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_657021.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Center/Center_590197.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Donut/Donut_280047.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Donut/Donut_279391.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Donut/Donut_279129.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Center/Center_587886.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Center/Center_589935.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Center/Center_589296.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Donut/Donut_681225.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_683097.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Loc/Loc_737591.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Center/Center_391358.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Donut/Donut_279543.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_215070.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Center/Center_86428.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_561721.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_199542.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Center/Center_193774.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Center/Center_181597.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Loc/Loc_371338.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_20943.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_109221.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_724625.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Donut/Donut_279201.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Loc/Loc_111405.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Donut/Donut_391197.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Donut/Donut_7905.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Center/Center_386921.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Center/Center_776011.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_806362.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Loc/Loc_804420.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_119783.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_779838.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Donut/Donut_691489.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Donut/Donut_279064.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Center/Center_628102.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Loc/Loc_747683.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_353082.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Loc/Loc_7268.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_712442.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_729314.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Center/Center_759902.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_656211.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Donut/Donut_279357.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_377153.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Loc/Loc_641535.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_49185.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Center/Center_438137.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Center/Center_587228.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Loc/Loc_727329.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_232195.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_357990.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_45094.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_792839.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_350369.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Donut/Donut_279326.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_187199.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_4596.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Donut/Donut_279527.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Loc/Loc_805121.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_677895.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_735040.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_771275.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Loc/Loc_744722.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_282587.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_199701.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Loc/Loc_88498.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Donut/Donut_680684.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Loc/Loc_737786.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_285649.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Loc/Loc_673876.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_744073.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_360311.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_223797.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Donut/Donut_279540.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_442198.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_648645.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_48275.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Donut/Donut_318560.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Center/Center_764291.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Donut/Donut_674128.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_768614.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_21005.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Donut/Donut_53740.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_250560.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_307139.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_330710.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_165514.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_231342.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Center/Center_590568.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Center/Center_587816.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Loc/Loc_683714.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_216760.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Center/Center_591432.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Donut/Donut_681064.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_807903.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_725210.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Center/Center_160237.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_7929.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Loc/Loc_374963.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_791228.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_758332.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_436911.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_717648.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_300352.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_795535.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Donut/Donut_279528.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Center/Center_592285.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_267606.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Loc/Loc_4040.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Center/Center_588467.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_216222.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Center/Center_574513.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Center/Center_793995.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_385177.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_660367.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Donut/Donut_738205.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_743.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_221234.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Loc/Loc_49514.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Donut/Donut_683679.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Center/Center_588848.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_236456.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Center/Center_774542.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_728333.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_21424.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Loc/Loc_287658.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Center/Center_588262.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_787665.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_239558.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Center/Center_629610.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_154770.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Donut/Donut_683638.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Center/Center_588429.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Donut/Donut_279372.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_14090.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Loc/Loc_639763.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Loc/Loc_680869.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_802891.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_350427.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Loc/Loc_4508.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Donut/Donut_639392.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Loc/Loc_88729.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_221305.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_781640.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Loc/Loc_89060.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_188562.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Donut/Donut_279398.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_764104.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_174849.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_350411.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Donut/Donut_318562.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_385750.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Center/Center_574157.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Donut/Donut_680073.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_360001.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Donut/Donut_279981.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Center/Center_178025.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Center/Center_589601.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Loc/Loc_645565.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Center/Center_744201.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_200136.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_62800.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Center/Center_591440.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Loc/Loc_387395.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_602487.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_756927.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Loc/Loc_398278.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_21774.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Loc/Loc_737745.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_808812.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_586876.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_37595.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Donut/Donut_279481.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_199711.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Loc/Loc_362803.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_346959.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Loc/Loc_806860.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Donut/Donut_279273.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_294349.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Center/Center_288317.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Center/Center_528483.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Donut/Donut_316511.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Loc/Loc_608317.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_788592.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Center/Center_574304.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Loc/Loc_673904.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Center/Center_83419.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Donut/Donut_762905.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Donut/Donut_279270.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_733911.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Center/Center_589324.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_777035.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Donut/Donut_279296.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_743860.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_199983.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_786496.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_187891.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Donut/Donut_7334.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_20893.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Center/Center_589816.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_699727.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_300289.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Donut/Donut_681337.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Center/Center_764691.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Loc/Loc_766643.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Donut/Donut_278757.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Donut/Donut_674121.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_683671.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Loc/Loc_607570.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_779923.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_175233.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_262955.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_736437.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_85421.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Donut/Donut_683778.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_438000.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_793740.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_364805.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Loc/Loc_7282.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_810583.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_685733.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_238121.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_25475.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Donut/Donut_278948.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Donut/Donut_639391.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Center/Center_260008.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Center/Center_627880.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_737406.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_95118.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_268725.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_795650.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_688742.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_723963.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Loc/Loc_683853.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_797882.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Donut/Donut_278983.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Center/Center_573681.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Center/Center_574027.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_417003.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_690473.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_768982.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_99017.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_25265.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Donut/Donut_7316.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Loc/Loc_757008.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Donut/Donut_279968.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Donut/Donut_73127.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Loc/Loc_791738.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_315870.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Loc/Loc_797294.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Donut/Donut_279988.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_792713.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Center/Center_148940.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_771787.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Loc/Loc_690027.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Loc/Loc_291515.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_350434.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_711259.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_756946.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_125005.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_279697.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Loc/Loc_710076.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Center/Center_589214.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Donut/Donut_68415.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Donut/Donut_46509.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Donut/Donut_279546.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Loc/Loc_612295.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_199675.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_715559.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Loc/Loc_799126.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_602567.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_811208.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_157744.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Donut/Donut_683940.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Loc/Loc_806935.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_651728.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_20676.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Center/Center_524156.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_733323.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_806417.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_329186.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_641736.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_276304.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Donut/Donut_58456.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_767372.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Center/Center_764779.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_282588.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Loc/Loc_382892.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_768257.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Donut/Donut_680498.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_268689.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_756743.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_762512.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Donut/Donut_361562.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_270939.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Loc/Loc_764749.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_242371.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Donut/Donut_279388.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Center/Center_734059.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Loc/Loc_137361.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_111133.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Loc/Loc_668039.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Center/Center_628553.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Loc/Loc_646832.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_199886.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_200391.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_650116.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_385335.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_202394.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Center/Center_590000.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_769174.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_346747.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_21003.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_739791.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Center/Center_628981.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Donut/Donut_278979.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_810865.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_756615.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Donut/Donut_438019.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_187827.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_717507.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Loc/Loc_717182.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_802531.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_645419.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Center/Center_703268.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Donut/Donut_276128.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Center/Center_588562.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Loc/Loc_649856.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_742931.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Loc/Loc_88721.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_221151.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_265870.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Loc/Loc_51469.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_12673.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Center/Center_739878.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Donut/Donut_679869.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_150602.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Donut/Donut_680266.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_144853.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_683184.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Donut/Donut_683294.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_314746.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Center/Center_646295.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_743988.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_354781.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Center/Center_590397.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Donut/Donut_548134.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Center/Center_590984.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_193258.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Center/Center_261056.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_718734.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Donut/Donut_278742.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Donut/Donut_681972.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Center/Center_590188.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_333780.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_781498.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_333796.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_764958.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Center/Center_590900.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_240730.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Donut/Donut_7949.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Donut/Donut_680762.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Center/Center_764709.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_772169.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_186650.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Center/Center_293310.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_783595.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Center/Center_316122.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Loc/Loc_808830.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Donut/Donut_747563.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_764811.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_383239.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_141306.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Donut/Donut_681807.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Loc/Loc_641720.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_383352.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_382233.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Donut/Donut_279135.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Loc/Loc_643460.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_767937.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Donut/Donut_279547.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Donut/Donut_279348.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Donut/Donut_279396.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Donut/Donut_54396.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Center/Center_587972.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Center/Center_525997.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_680153.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Loc/Loc_712645.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Center/Center_127036.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_247167.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_350375.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Center/Center_629593.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_734174.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_240899.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_585402.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_300578.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_73638.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Loc/Loc_404617.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Center/Center_86270.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_767128.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_21118.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_282600.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Donut/Donut_279929.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Loc/Loc_175364.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Donut/Donut_11813.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Loc/Loc_108569.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_346954.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_648519.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Center/Center_405719.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Loc/Loc_115006.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Loc/Loc_732022.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_255753.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_807784.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Loc/Loc_364045.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_228211.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Loc/Loc_780943.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_268857.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_157732.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_377247.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Center/Center_764777.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Loc/Loc_218338.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_346753.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Center/Center_85576.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_20782.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Loc/Loc_645733.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_399957.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Center/Center_631009.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Loc/Loc_757521.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Loc/Loc_231736.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_20976.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Loc/Loc_290644.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_177013.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Center/Center_574608.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_766770.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Donut/Donut_34024.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_445199.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_766936.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Donut/Donut_279487.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Donut/Donut_116260.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Center/Center_187567.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_231971.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_236438.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_733160.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_106379.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_658701.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Center/Center_590481.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Loc/Loc_764720.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_577029.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_42368.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Loc/Loc_401275.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_714277.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_952.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_726133.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_96598.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Loc/Loc_89849.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_788453.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Donut/Donut_393807.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Loc/Loc_702957.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_745417.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Loc/Loc_361746.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_810303.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Loc/Loc_597975.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_154233.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_649100.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_720537.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_762108.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Donut/Donut_279949.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Loc/Loc_702631.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Donut/Donut_681371.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_118821.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_282621.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Center/Center_630831.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Loc/Loc_763270.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_800769.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Donut/Donut_800986.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_811244.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Loc/Loc_654569.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Donut/Donut_679598.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Center/Center_696643.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Donut/Donut_673855.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_107215.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  },
+  {
+    "img": "WM-811k/Loc/Loc_737712.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_770832.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Edge-Ring/Edge-Ring_377154.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Ring' defect. This global defect exhibits defective dies distributed around the circle of the wafer map.",
+    "class": 3
+  },
+  {
+    "img": "WM-811k/Donut/Donut_755218.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Donut' defect. The defective dies form a ring structure in this wafer map, which may be caused by inaccurate chemical mechanical polishing.",
+    "class": 1
+  },
+  {
+    "img": "WM-811k/Scratch/Scratch_681312.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Scratch' defect. The defective dies are distributed in a long narrow area, which may be caused by mechanical and foreign body injury.",
+    "class": 5
+  },
+  {
+    "img": "WM-811k/Loc/Loc_641438.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Loc/Loc_118986.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Center/Center_590013.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Center' defect. The defective dies are concentrated in the center of this wafer map, which may be caused by abnormal center temperature during implant operation.",
+    "class": 0
+  },
+  {
+    "img": "WM-811k/Loc/Loc_689195.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Loc' defect. This frequently occurred regional defect pattern may be caused by particle pollution or uneven heating.",
+    "class": 4
+  },
+  {
+    "img": "WM-811k/Edge-Loc/Edge-Loc_296057.png",
+    "prompt": "What is the defect in this wafer map?",
+    "label": "'Edge_Loc' defect. This regional defect pattern appears on the edge of the wafer map, possibly resulting from pollution during fabrication.",
+    "class": 2
+  }
+]
