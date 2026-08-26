@@ -1,4 +1,4 @@
-# DefectVLM
+# DefectVLM: A Vicuna-Based Vision Language Model for Wafer Map Defect Understanding
 
 ## Installation
 ```
